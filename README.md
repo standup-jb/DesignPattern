@@ -16,8 +16,11 @@ http://blog.csdn.net/qq_24210767/article/details/78776823
 DesignPattern,I write a very easy code but useful to understand each design patterns.
 ## You can download the source code and learn with some document.This code just assist you to understand the design patterns,In the real develope scence.We may faced more difficult and flexiable problem.
 Design patterns are divided into three categories
+
 Create Patterns,Total 5 species:Factory Pattern,Abastract Factory Pattern,Singletion Pattern,Builder Pattern,Prototype Pattern
+
 Structural Patterns,Total 7 species:Adapter Pattern,Decorator Pattern,Proxy Pattern,Facade Pattern,Bridge Pattern,Composite Pattern,Flyweight Pattern.
+
 Behavioral Patterns,Total 11 species:Strategy Pattern,Template Pattern,Observer Pattern,Iterator Pattern,Chain of Responsibility Pattern,Command Pattern,Memento Pattern,StatePattern,Visitor Pattern,Mediator Pattern,Interpreter Pattern.
 And have another two type:Concurrent Pattern and Thread Pool Pattern.
 ### I hope more people can take part in this project and then we can study and progress together.
