@@ -11,6 +11,8 @@
 ### 希望有更多的人愿意参与到这个项目，一起学习和进步。
 参考博客：创建型模式
 http://blog.csdn.net/qq_24210767/article/details/78776823
+结构型模式
+http://blog.csdn.net/qq_24210767/article/details/78797792
 
 # DesignPattern
 DesignPattern,I write a very easy code but useful to understand each design patterns.
@@ -26,6 +28,8 @@ And have another two type:Concurrent Pattern and Thread Pool Pattern.
 ### I hope more people can take part in this project and then we can study and progress together.
 Reference Blog:Create Patterns:
 http://blog.csdn.net/qq_24210767/article/details/78776823
+Constract Patterns:
+http://blog.csdn.net/qq_24210767/article/details/78797792
 
 
 
