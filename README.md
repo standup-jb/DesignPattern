@@ -9,8 +9,8 @@
 行为型模式，共十一种：策略模式、模板方法模式、观察者模式、迭代子模式、责任链模式、命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式。
 其实还有两类：并发型模式和线程池模式。
 ### 希望有更多的人愿意参与到这个项目，一起学习和进步。
-参考博客：创建型模式
-http://blog.csdn.net/qq_24210767/article/details/78776823
+参考博客：创建型模式 http://blog.csdn.net/qq_24210767/article/details/78776823  
+        结构型模式 http://blog.csdn.net/qq_24210767/article/details/78797792
 
 # DesignPattern
 DesignPattern,I write a very easy code but useful to understand each design patterns.
@@ -24,8 +24,8 @@ Structural Patterns,Total 7 species:Adapter Pattern,Decorator Pattern,Proxy Patt
 Behavioral Patterns,Total 11 species:Strategy Pattern,Template Pattern,Observer Pattern,Iterator Pattern,Chain of Responsibility Pattern,Command Pattern,Memento Pattern,StatePattern,Visitor Pattern,Mediator Pattern,Interpreter Pattern.
 And have another two type:Concurrent Pattern and Thread Pool Pattern.
 ### I hope more people can take part in this project and then we can study and progress together.
-Reference Blog:Create Patterns:
-http://blog.csdn.net/qq_24210767/article/details/78776823
+Reference Blog:Create Patterns: http://blog.csdn.net/qq_24210767/article/details/78776823  
+          Blog:Constract Patterns: http://blog.csdn.net/qq_24210767/article/details/78797792
 
 
 
